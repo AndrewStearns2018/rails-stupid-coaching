@@ -1,5 +1,6 @@
 class QuestionsController < ApplicationController
   def ask
+    # This definition just goes back to the ask.html.erb page
   end
 
   def answer
